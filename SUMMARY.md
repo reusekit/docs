@@ -2,7 +2,8 @@
 
 ## Getting Started
 
-* [Get started with ReuseKit](README.md)
+* [Installation](README.md)
+* [Contributing](getting-started/quickstart-1.md)
 
 ## Basics
 
