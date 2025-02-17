@@ -1,5 +1,5 @@
 ---
-icon: bullseye-arrow
+icon: arrow-down-to-dotted-line
 ---
 
 # Installation
