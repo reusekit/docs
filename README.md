@@ -1,19 +1,18 @@
 ---
-icon: arrow-down-to-dotted-line
+icon: hand-wave
 ---
 
-# Installation
+# Introduction
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+**ReuseKit** is a collection of predefined, customizable, and reusable components built specifically for Next.js. Whether you're developing a full-fledged application or just need some core building blocks, ReuseKit provides a seamless way to integrate essential UI components and accelerate your development process.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+#### Why ReuseKit?
 
-### Import
+In today's fast-paced development environment, efficiency and scalability are key. ReuseKit empowers developers by offering a set of pre-built components that are:
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+* **Customizable**: Tailor components to your needs with minimal effort.
+* **Reusable**: Save time by reusing these components across different projects.
+* **TypeScript-Ready**: Fully compatible with TypeScript, ensuring type safety and a smoother development experience.
+* **Optimized for Next.js**: Built specifically for Next.js to ensure perfect integration and support for server-side rendering.
 
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+Get started with the [installation](<README (1).md>)
